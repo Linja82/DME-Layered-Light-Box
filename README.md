@@ -8,6 +8,8 @@ The code for the DME Layered Light Box.
   2. Sign into your Google account if you aren't already signed in
   3. Click [Make a copy]
      
-     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Copy%20document.png" width=500>  
-  5.  
+     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Copy%20document.png" width=600>  
+  4. Click on [Draw Grid]
+
+     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Draw%20Grid.png" width=600>
 
