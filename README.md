@@ -46,6 +46,7 @@ The code for the DME Layered Light Box.
   2. Click the [Draw Grid] button. A grid of black cells should appear in the size you specified in the previous step.
 
      <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Draw%20Grid2.png" width=600>  
+     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Black%20Grid.png" width=600>  
   3. Add background colours to each of the cells in the grid according to your design.
   4. Click the [Generate] button.
 </details>
