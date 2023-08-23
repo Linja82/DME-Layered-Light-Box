@@ -12,4 +12,5 @@ The code for the DME Layered Light Box.
   4. Click on [Draw Grid]
 
      <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Draw%20Grid2.png" width=600>
+  5. A pop-up saying "Authorization Required" will appear. Click [Continue].
 
