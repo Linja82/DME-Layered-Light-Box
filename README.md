@@ -52,3 +52,7 @@ The code for the DME Layered Light Box.
      <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Coloured%20Grid2.png" width=600>  
   4. Click the [Generate] button. A bunch of text should appear in Cell D1.
 </details>
+
+## 3. Wiring:
+
+## 4. Power supply selection:
