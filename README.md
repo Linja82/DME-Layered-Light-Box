@@ -4,6 +4,9 @@ The code for the DME Layered Light Box.
 ## Instructions:
 
 ### 1. Setting up the companion app:
+<details>
+  <summary>Click me</summary>
+  
   1. Go to the [Google Sheets App](https://docs.google.com/spreadsheets/d/1BcQXLhg0BJCwyGEYzw7sAEM5Z4Viso_Yu5WbtARvCH0/copy).
   2. Sign into your Google account if you aren't already signed in
   3. Click [Make a copy]
@@ -28,6 +31,7 @@ The code for the DME Layered Light Box.
 
       <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Allow.png" width=600>
   10. The new window should close.
+</details>
 ### 2. Creating your lighting pattern:
   1. In the Google Sheet enter your desired panel width and height. This refers to the number of pixels you have in the width and height.
       Width refers to the strip of LEDs, while height is the stacking of strips next to each other.
