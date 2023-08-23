@@ -23,5 +23,5 @@ The code for the DME Layered Light Box.
      <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Google%20hasn't%20verified.png" width=600>
   8. Scroll down and click on [Go to LED Panel Command Generator (unsafe)]
 
-     <img src="" width=600>
+     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Go%20to%20LED%20Panel%20Command%20Generator2.png" width=600>
 
