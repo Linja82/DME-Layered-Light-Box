@@ -11,5 +11,5 @@ The code for the DME Layered Light Box.
      <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Copy%20document.png" width=600>  
   4. Click on [Draw Grid]
 
-     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Draw%20Grid.png" width=600>
+     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Draw%20Grid2.png" width=600>
 
