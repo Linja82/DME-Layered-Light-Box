@@ -43,5 +43,7 @@ The code for the DME Layered Light Box.
       Width refers to the strip of LEDs, while height is the stacking of strips next to each other.
 
       Note: The "Total Pixels" value is calculated automatically.
-  2. 
+  2. Click the [Draw Grid] button. A grid of black cells should appear in the size you specified in the previous step.
+  3. Add background colours to each of the cells in the grid according to your design.
+  4. Click the [Generate] button.
 </details>
