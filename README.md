@@ -20,3 +20,5 @@ The code for the DME Layered Light Box.
      <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Choose%20an%20account.png" width=600>
   7. The next screen will say "Google hasn't verified this app". Click on [Advanced]
 
+     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Google%20hasn't%20verified.png" width=600>
+
