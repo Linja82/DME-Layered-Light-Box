@@ -34,9 +34,12 @@ The code for the DME Layered Light Box.
 </details>  
 
 ## 2. Creating your lighting pattern:
+<details>
+  <summary>Click me</summary>
+
   1. In the Google Sheet enter your desired panel width and height. This refers to the number of pixels you have in the width and height.
       Width refers to the strip of LEDs, while height is the stacking of strips next to each other.
 
       Note: The "Total Pixels" value is calculated automatically.
   2. 
-
+</details>
