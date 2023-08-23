@@ -1,6 +1,8 @@
 # DME-Layered-Light-Box
 The code for the DME Layered Light Box.
 
+## Authors:
+
 # Instructions:
 
 ## 1. Setting up the companion app:
