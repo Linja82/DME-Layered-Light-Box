@@ -27,4 +27,10 @@ The code for the DME Layered Light Box.
   9. A new screen will appear. Click on [Allow]
 
       <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Allow.png" width=600>
+  10. The new window should close.
+  11. In the Google Sheet enter your desired panel width and height. This refers to the number of pixels you have in the width and height.
+      Width refers to the strip of LEDs, while height is the stacking of strips next to each other.
+
+      Note: The "Total Pixels" value is calculated automatically.
+  13. 
 
