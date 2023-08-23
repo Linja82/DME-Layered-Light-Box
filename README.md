@@ -17,3 +17,6 @@ The code for the DME Layered Light Box.
      <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Continue.png" width=600>
   6. A new window will open and ask you to "Choose an account". Select the same account you opened the Google Sheet with.
 
+     <img src="https://github.com/Linja82/DME-Layered-Light-Box/blob/main/Images/Choose%20an%20account.png" width=600>
+  7. The next screen will say "Google hasn't verified this app". Click on [Advanced]
+
