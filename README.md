@@ -1,5 +1,6 @@
 # Graphical LED Matrix Editor
 App that allows you to customize individual pixel colours for an LED matrix in a graphical format.  
+  
 The generated code is designed for an ESP8266 module with the LED strip connected to pin D7.
 
 ## Authors:
